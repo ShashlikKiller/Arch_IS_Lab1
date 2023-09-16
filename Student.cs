@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace Arch_IS_Lab1
 {
-    class Student
+    public class Student
     {
         private string name;
         private string surname;
@@ -20,6 +15,10 @@ namespace Arch_IS_Lab1
             this.group = group;
             this.student_id = student_id;
             this.learningstatus = learningstatus;
+        }
+        public Student()
+        {
+
         }
 
         #region Getters And Setters
