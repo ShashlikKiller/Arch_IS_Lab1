@@ -3,5 +3,5 @@
 
 Консольное приложение, реализованное по принципу клиент-сервер на UDP протоколе.
 
-### [https://github.com/ShashlikKiller/Arch_IS_Lab1/releases/tag/lab] (Лабораторная работа №1)
+### [https://github.com/ShashlikKiller/Arch_IS_Lab1/releases/tag/lab](Лабораторная работа №1)
 ### Лабораторная работа №2: в работе
